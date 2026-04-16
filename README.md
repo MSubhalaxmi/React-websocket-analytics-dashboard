@@ -53,11 +53,12 @@ The application is designed to consume live data streams from backend services a
 
 
 **Component Structure**
-components  : Reusable UI components  
-services    : API and WebSocket logic  
-hooks       : Custom React hooks  
-styles      : Styling and layout  
-tests       : Test cases  
+
+**components  :** Reusable UI components  
+**services    :** API and WebSocket logic  
+**hooks       :** Custom React hooks  
+**styles      :** Styling and layout  
+**tests       :** Test cases  
 
 
 **User Experience Features**
