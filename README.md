@@ -1,6 +1,7 @@
 **Real-Time Fleet Analytics Dashboard (React + WebSockets)**
 
 **Overview**
+
 This repository contains a real-time analytics dashboard for visualizing fleet telemetry data and monitoring vehicle metrics.
 
 The application is designed to consume live data streams from backend services and render updates with minimal latency, enabling efficient decision-making for fleet operations.
