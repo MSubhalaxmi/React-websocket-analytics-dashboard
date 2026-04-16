@@ -110,10 +110,12 @@ npm start
 **tests       :** Test cases  
 
 **Integration Guide**
+
 WebSocket endpoint: ws://localhost:8000/ws  
 API base URL: http://localhost:8000/api  
 
 **Future Enhancements**
+
 - Advanced charting libraries integration
 - Role-based dashboards
 - Dark mode support
