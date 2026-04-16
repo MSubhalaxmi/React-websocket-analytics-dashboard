@@ -101,12 +101,13 @@ npm start
 
 
 **Project Structure**
-src         : Main application code  
-components  : UI components  
-services    : API and socket logic  
-hooks       : Custom hooks  
-public      : Static assets  
-tests       : Test cases  
+
+**src         :** Main application code  
+**components  :** UI components  
+**services    :** API and socket logic  
+**hooks       :** Custom hooks  
+**public      :** Static assets  
+**tests       :** Test cases  
 
 **Integration Guide**
 WebSocket endpoint: ws://localhost:8000/ws  
